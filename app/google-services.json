@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "845203128303",
+    "firebase_url": "https://ease-in-voyage.firebaseio.com",
+    "project_id": "ease-in-voyage",
+    "storage_bucket": "ease-in-voyage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845203128303:android:f7d22f5f24d2e588",
+        "android_client_info": {
+          "package_name": "innovators.ease_invoyage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845203128303-ud8quvn5jd3bv822a83j0amsiu29k261.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "845203128303-tcmhdmb97nmtbrgdlffi9bo7ie56g6k4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "innovators.ease_invoyage",
+            "certificate_hash": "dd6a1a3243387ce34a77c5f238e50de32782d63b"
+          }
+        },
+        {
+          "client_id": "845203128303-sff6orb1j98gmtsfhlc05bd9qifhrs4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpa554I-xvJyzSY3tkYlnPRjVLk3Jy64A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
